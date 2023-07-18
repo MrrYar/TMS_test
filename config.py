@@ -1,0 +1,2 @@
+LANG = 'RUS'
+DOWNLOAD_SYSTEM = 'BD'
